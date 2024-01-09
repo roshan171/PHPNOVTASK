@@ -1,0 +1,36 @@
+
+
+PHP Interview Questions:
+
+
+1. what is php
+2. common use of php
+3. is php a case sensitive language
+4. what are the type of variables
+5.What are the rules for naming a PHP variable?
+6. What is a session in PHP?
+7. Differentiate between variables and constants in PHP
+8. What does PEAR stands for?
+9. What is the difference between “echo” and “print” in PHP?
+10.Tell me some of the disadvantages of PHP
+11. What are the different types of Array in PHP?
+12. Explain the main types of errors.
+13. Does JavaScript interact with PHP?
+14. Differentiate between GET and POST
+15. what is PDO in php
+16. How does the ‘foreach’ loop work in PHP?
+17. What is the most used method for hashing passwords in PHP?
+18. What is the difference between the include() and require() functions?
+19. What are cookies? How to create cookies in PHP?
+20. What is the meaning of ‘escaping to PHP’?
+21. What is the meaning of a final method and a final class?
+22. What is the use of session_start() and session_destroy() functions in PHP?
+
+
+
+
+pyramid all programs
+fibbonacci series
+reverse number
+Palindrom and Prime No 
+

@@ -1,0 +1,33 @@
+PHP Interview Querstion 
+
+What is PHP
+What is array and Types 
+Array Function and string Function
+What is session and cookies
+What is image upload function 
+File handling
+What is function 
+What is diff bet echo and print   AND  include and require 
+
+
+OOPs 
+Class and object, Abstract class, Constructor, Destructor, Inheritance, Interface.
+
+MYSQL 
+
+Trigger 
+diff bet MYSQL and SQL
+diff bet Pri key and forie key 
+What is join and types
+Insert multiple data in single query 
+Update Multiple data in single query
+Create Basic API to output Postman Json Encode.
+
+
+
+
+Jquery  
+
+What is Jquery
+BAsic Jquery Event
+Jquery Selector  
